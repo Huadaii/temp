@@ -1,0 +1,705 @@
+	Huawei-Firewall	header=Eudemon Server || body=Modify by wangxiangguang
+	Canon-Printer	header=Canon Http Server
+	CUPS	header=CUPS
+	Dell-Printer	title=Dell Laser Printer
+	Epson printer	header=EPSON-HTTP || title=EpsonNet config || title=EpsonNet WebAssist
+	epson打印机	server=EPSON-HTTP||header=EPSON-HTTP
+	HP-OfficeJet-Printer	title=HP Officejet || body=align=center>HP Officejet
+	HP-Printer	header=HP HTTP Server
+	HP-LaserJet-Printer	header=HP-ChaiServer || header=HP-ChaiSOE || title=HP Color LaserJet || title=hp LaserJet
+	CrushFTP	header=Server: CrushFTP HTTP Server || title =CrushFTP WebInterface
+	AirOS	header=AIROS_SESSIONID || header=cookiechecker?uri=
+	MacOS 	header=MacOS
+	windows bit	header=win
+	WINDOWS bit	header=Win
+	Unix	header=Unix
+	Scientific Linux	header=Scientific Linux
+	Oracle Solaris	header=Oracle Solaris
+	FreeBSD	header=FreeBSD
+	linuxmint	header=mint
+	Redhat	header=Redhat || header=Red Hat
+	openSUSE	header=openSUSE
+	Fedora	header=Fedora
+	Ubuntu	header=Ubuntu
+	centos	header=centos
+	Debian	header=Debian
+	HyNetOS-httpd	header=HyNetOS
+	OpenSolaris	header=OpenSolaris
+	Gentoo Linux	header=Gentoo
+	Slackware	header=Slackware
+	PCLinuxOS	header=PCLinuxOS
+	MontaVista linux	header=MontaVista
+	pagespeed	header=X-Page-Speed || header=X-Mod-Pagespeed
+	mod_bwlimited	header=mod_bwlimited
+	mod_auth_passthrough	header=mod_auth_passthrough
+	mod_auth_pam	header=mod_auth_pam
+	mod_fastcgi	header=mod_fastcgi
+	mod_jk	header=mod_jk
+	mod_perl	header=mod_perl
+	mod_python	header=mod_python
+	mod_rack	header=mod_rack
+	mod_rails	header=mod_rails
+	mod_ssl	header=mod_ssl
+	mod_wsgi	header=mod_wsgi
+	mod_antiloris	header=mod_antiloris
+	UrlRewriter.NET	header=UrlRewriter.NET
+	mod_dav	header=DAV/
+	Suhosin	header=suhosin
+	PleskLin	header=PleskLin
+	mod_pagespeed	header=mod_pagespeed
+	mod_throttle	header=mod_throttle
+	mod_macro	header=mod_macro
+	mod_psoft_traffic	header=mod_psoft_traffic
+	mod_gzip	header=mod_gzip
+	mod_log_bytes	header=mod_log_bytes
+	mod_autoindex_color	header=mod_autoindex_color
+	mod_nss	header=mod_nss
+	mod_auth_kerb	header=mod_auth_kerb
+	mod_fcgid	header=mod_fcgid
+	mod_apreq	header=mod_apreq
+	mod_hive	header=mod_hive
+	mod_encoding	header=mod_encoding
+	mod_evasive	header=mod_evasive
+	log_rotate	header=mod_ log_rotate
+	Ben-SSL	header=Ben-SSL
+	BlackJumboDog	header=BlackJumboDog
+	Cerberus-Helpdesk	header=CerberusPublicGUI || body=<!-- If you have your own stylesheet for HTML elements, you can remove the cerberus-html.css link
+	Conexant-EmWeb	header=Conexant-EmWeb || header=Virata-EmWeb
+	Deluge-web	title=Deluge: Web UI
+	Enigma	body=href=/web/movielist.rss?tag || title=Enigma WebControl
+	FreeJoomlas_com	body=<a title=free joomla hosting href=http://freejoomlas.com
+	FirePHP	header=x-wf- || header=meta.wildfirehq.org
+	Geobytes-GeoSelect	header=Geobytes-GeoSelect
+	Intermec-EasyLAN	header=XCD WebAdmin || body=COLOR=BLACK SIZE=>Intermec EasyLAN
+	DUclassified	body=assets/DUclassified.css || title=DUclassified
+	squid	header=squid
+	kangle反向代理	header=kangle || title=welcome use kangle
+	Varnish	header=X-Varnish
+	Aicache	header=X-Aicache
+	SJSWPS_ OiWPS	header=Sun-Java-System-Web-Proxy-Server || header=Oracle-iPlanet-Proxy-Server
+	PHP	header=X-Powered-By: PHP
+	ASP.NET	header=X-Powered-By: ASP.NET
+	python	header=python || header=Django
+	ruby	header=ruby || header=WEBrick || header=Phusion || header=Mongrel || header=X-Rack-Cache
+	jsp	header=jsp || header=Servlet || header=JBoss || header=JSESSIONID
+	perl	header=perl
+	nodejs	header=X-Powered-By: Express || header=pump.io || header=node.js
+	ASP	header=X-Powered-By: ASP
+	ASP.NET Version	header=X-Aspnet-Version
+	JSP .x	header=JSP/.
+	lua	header=Server: lua
+	joomla-facebook	header=jfbconnect_permissions_granted
+	mikrotik	title=RouterOS || body=mikrotik
+	中兴路由器	header=Server: Mini web server . ZTE corp .
+	hc路由器	title=Web user login || body=nLanguageSupported
+	jcg无线路由器	title=Wireless Router || body=http://www.jcgcn.com
+	D-Link_VoIP_Wireless_Router	title=D-Link VoIP Wireless Router
+	arrisi_Touchstone	title=Touchstone Status || body=passWithWarnings
+	Ruckus	body=mon.  Tell me your username || title=Ruckus Wireless Admin
+	Motorola_SBG	title=Motorola SBG
+	Wimax_CPE	title=Wimax CPE Configuration
+	Cisco_Cable_Modem	title=Cisco Cable Modem
+	Scientific-Atlanta_Cable_Modem	title=Scientific-Atlanta Cable Modem
+	ZTE_MiFi_UNE	title=MiFi UNE G LTE
+	DI-HV	header=DI-HV
+	HuaweiHomeGateway	header=HuaweiHomeGateway || body=Menu.HomeGatewayTitle
+	TP-LINK无线路由器	header=TP-LINK Wireless
+	ZTE_ZSRV_Router	title=ZSRV路由器Web管理系统 || body=ZTE Corporation. All Rights Reserved.
+	百为智能流控路由器	title=BYTEVALUE 智能流控路由器 || body=<a href=http://www.bytevalue.com/ target=_blank>
+	乐视路由器	title=乐视路由器 || body=<div class=login-logo></div>
+	Verizon_Wireless_Router	title=Wireless Broadband Router Management Console || body = verizon_logo_blk.gif
+	Nexus_NX_router	body=http://nexuswifi.com/ || title=Nexus NX
+	Verizon_Router	title=Verizon Router || body!=<div id=bgimage class=container ng-view></div>
+	小米路由器	title=小米路由器 || header = Tx-Server: MiXr
+	爱快流控路由	title=爱快 || body=/resources/images/land_prompt_ico.gif
+	Piwik	header=PIWIK_SESSID  || (title=Piwik || body=index.php?module=Proxy)
+	ThinkPHP	header=thinkphp || header=think_template
+	Swiftlet	header=Swiftlet
+	CodeIgniter	header=ci_session
+	ColdFusion	body=/cfajax/ || header=CFTOKEN || body=ColdFusion.Ajax || body=cdm
+	WebObjects	header=WebObjects || header=wosid
+	cakephp	header=CAKEPHP
+	zikula_framework	header=ZIKULASID || header=ZIKULASID || header=ZIKULASID
+	NetteFramework	header=Nette Framework
+	Fat-FreeFramework	header=Fat-Free Framework
+	Play-Framework	header=Play! Framework
+	Restlet-Framework	header=Restlet-Framework
+	Kohana-Framework	header=Kohana Framework
+	flow_framework	header=FLOW/FRAMEWORK
+	SIMIT_framework	header=SIMIT framework
+	ASP.NET MVC	header=Aspnetmvc
+	Go-Json-Rest	header=go-json-rest
+	Apache-Cocoon	header=x-cocoon-version
+	BlueDragon	header=BlueDragon
+	CodeIgniter-PHP-Framework	header=ci_session=
+	Bobo	header=Bobo-Exception-Line || header=x-ksscommands
+	Dradis-Framework	header=_dradis_session= || body=<p class=copyright>Dradis
+	FrontPage-Extensions	header=FrontPage
+	FreePBX	header=FreePBX
+	FreakAuth	header=FreakAuth
+	Horde-Application-Framework	body=Powered by Horde || header=horde_secret_key || body=<img src=/themes/default/graphics/horde-power.png
+	Karrigell	header=Karrigell
+	JSF	header=JSF/
+	vertx	header=vertx-web.session
+	Spring Security	header=Spring Security Application
+	Zend Framework	header=Zend Framework || header=ZEND=
+	yii	header=YII_CSRF_TOKEN
+	elasticsearch	(header=application/json || body=build_hash) || body=You Know, for Search
+	phpMyadmin	header=Set-Cookie: phpMyAdmin= || title=phpMyAdmin  || body=pma_password
+	MVB	title=MVB || body=The Magic Voice Box
+	GPSweb	title=GPSweb
+	Tumblr	header=X-Tumblr-User
+	phpinfo	title=phpinfo || body=Virtual Directory Support 
+	AD_RS设备	header=AD_RS_COOKIE
+	FrontPageServerExtension	header=Microsoftofficewebserver
+	认证页面	header=Www-Authenticate
+	TCN协议	header=Tcn: choice || header=Tcn: list
+	sharepoint	header=Microsoftsharepointteamservices
+	MS-Author-Via	header=MS-Author-Via
+	COM_NBX	title=NBX NetSet || (header=Alternates || body=NBX)
+	wspx	header=X-Copyright: wspx || header=X-Powered-By: ANSI C
+	rack-cache	header=X-Rack-Cache
+	Dnnoutputcache	header=Dnnoutputcache
+	Iisexport	header=Iisexport
+	Oraclea-DMS	header=X-Oracle-Dms-Ecid
+	Pp_enabled	header=Pp: CP
+	X-e-Nobeian-Transfer	header=X-e-Nobeian-Transfer
+	ManagedFusion	header=ManagedFusion
+	Adblock	header=X-Adblock-Key
+	Blackboard	header=X-Blackboard-Product || header=X-Blackboard-Appserver
+	LiquidGIS	header=Productname: LiquidGIS
+	Wp-Super-Cache	header=Wp-Super-Cache
+	pagespeed	header=X-Page-Speed || header=X-Mod-Pagespeed
+	Alternate-Protocol	header=Alternate-Protocol
+	unbouncepages	header=X-Unbounce-Pageid
+	OpenSSL	header=OpenSSL
+	mod_bwlimited	header=mod_bwlimited
+	mod_auth_passthrough	header=mod_auth_passthrough
+	FreeboxOS	title=Freebox OS || body=logo_freeboxos
+	SMA_Sunny_Webbox	title=SMA Sunny Webbox || header=Server: WebBox-
+	Wimax_CPE	title=Wimax CPE Configuration
+	Aethra_Telecommunications_Operating_System	header=atos
+	Scientific-Atlanta_Cable_Modem	title=Scientific-Atlanta Cable Modem
+	ZTE_MiFi_UNE	title=MiFi UNE G LTE
+	AirLink_modem	header=Modem@AirLink.com
+	CCProxy	header=Server: CCProxy
+	APC_Management	header=APC Management Card || body=This object on the APC Management Web Server is protected
+	HuaweiHomeGateway	header=HuaweiHomeGateway || body=Menu.HomeGatewayTitle
+	TP-LINK无线路由器	header=TP-LINK Wireless
+	护卫神网站安全系统	title=护卫神.网站安全系统
+	ColdFusion	body=/cfajax/ || header=CFTOKEN || body=ColdFusion.Ajax || body=cdm
+	PHP-CGI	header=PHP-CGI
+	Synology_NAS	header=webman/index.cgi || body=modules/BackupReplicationApp
+	OpenMas	title=OpenMas || body=loginHead><link href=App_Themes
+	Chromelogger	header=X-Chromelogger-Data
+	Communique	header=Communique
+	IPFire	header=IPFire - Restricted
+	TerraMaster	title=TerraMaster || body=/js/common.js
+	squarespace建站	header=SS_MID || header=squarespace.net
+	Bad_Behavior	header=bb_screener_
+	Azure_ARR	header=ARRAffinity
+	Tncms	header=X-Tncms-Version
+	RG-PowerCache内容加速系统	title=RG-PowerCache
+	dayrui系列产品	header=dr_ci_session || body=dayrui/statics
+	Privoxy代理	header=Privoxy
+	wordpress_qTranslate	header=qtrans_cookie_test
+	blog_fc	header=bloguid || header=cookietest=test
+	LiteSpeed_Web_Admin_Console	title=LiteSpeed Web Admin Console || header=LSWSWEBUI
+	SLTM_Configuration	title=SLTM Web Configuration Pages 
+	SHOUTcast	title=SHOUTcast Administrator
+	Piwigo	body=generator content=Piwigo || header=pwg_id
+	Moxa Nport串口服务器	header=MoxaHttp
+	CASino	(body=rbcas.com || body=CASino) || header=_CASinoApp_session || header=_my-casino_session || body=casino_and_overrides.css
+	metasploit	title=Metasploit is initializing... || header=https://dev.metasploit.com || (body=rbottom-strip || body=metasploit) || (header=_ui_session || body=metasploit)
+	施耐德_Schneider_PowerLogic_PM	header =PowerLogic || header=PM
+	PowerLogic_ION	title =PowerLogic || title =ION || header=Allegro-Software-RomPager
+	Siemens_CP-	header=CP- IT
+	施耐德Schneider设备	header=Schneider-WEB
+	WindRiver设备	header=WindRiver-WebServer
+	Sophos_Web_Appliance	title=Sophos Web Appliance
+	Moxa_NPort_A	header=MoxaHttp || title=NPort Web Console || body=A
+	Locus_SolarNOC	title=SolarNOC - Login
+	Everything	(body=Everything.gif||body=everything.png) || title==Everything
+	honeywell NetAXS	title=Honeywell NetAXS
+	Symantec Messaging Gateway	title=Messaging Gateway
+	xfinity	title==Xfinity || body=/reset-meyer-..min.css
+	网动云视讯平台	title==Acenter || body=/js/roomHeight.js || body=meetingShow!show.action
+	天融信入侵检测系统TopSentry	title=天融信入侵检测系统TopSentry
+	天融信日志收集与分析系统	title=天融信日志收集与分析系统
+	天融信WEB应用防火墙	title=天融信WEB应用防火墙
+	天融信Web应用安全防护系统	title=天融信Web应用安全防护系统
+	汉码软件	title=汉码软件 || body=alt=汉码软件LOGO || body=content=汉码软件
+	易分析	title=易分析 PHPStat Analytics || body=PHPStat Analytics 网站数据分析系统
+	phpems考试系统	title=phpems || body=content=PHPEMS
+	Apabi数字资源平台	body=Default/apabi.css || body=<link href=HTTP://apabi || title=数字资源平台
+	Fortinet Firewall	title==Firewall Notification
+	WDlinux	title=wdOS
+	zkteco公司产品	body=/media/images/ZKECO.ico || header=sessionidadms || body=ZKTeco Inc. All Rights Reserved
+	天融信ADS管理平台	title=天融信ADS管理平台
+	天融信异常流量管理与抗拒绝服务系统	title=天融信异常流量管理与抗拒绝服务系统
+	天融信脆弱性扫描与管理系统	title=天融信脆弱性扫描与管理系统 || body=/js/report/horizontalReportPanel.js
+	Conn KeepAlive	header=Connection: keep-alive
+	Firefox-Spdy	header=X-Firefox-Spdy
+	chunked Encode	header=Transfer-Encoding: chunked
+	GZIP encode	header=Content-Encoding: gzip
+	AdSubtract proxy	header=AdSubtract 
+	Adobe Connect	body=/common/scripts/showContent.js || header=BREEZESESSION=
+	AChecker Web accessibility evaluation tool	body=content=AChecker is a Web accessibility || title=Checker : Web Accessibility Checker
+	Accellion Secure File Transfer	header=sfcurl=deleted; || body=Secured by Accellion
+	RealTime Web ACARS	header=acarsd || body=content=KjM <acarsd@acarsd.org> || body=content=Realtime Web ACARS
+	Access-Control	header=Access-Control-Allow-Methods
+	dreambox	header=dreambox
+	Icinga	header=Icinga
+	BASIC AUTH	header=Www-Authenticate: Basic
+	Huawei Official Site	title=Huawei Official Site
+	NTLM认证	header=NTLM
+	Alt-Svc	header=Alt-Svc
+	phpmoadmin	title=phpmoadmin
+	Cisco ASA	header=Cisco ASA
+	Cisco GCT	header=Cisco GCT
+	Cisco-SX	header=Cisco-SX
+	Cisco-VDS	header=Cisco-VDS
+	Servlet	header=Servlet
+	Cisco IronPort	header=Cisco IronPort
+	Cisco-DLT	header=Cisco-DLT || body=System name: Cisco DLT
+	Cisco xSeries	header=Cisco xSeries
+	CISCO ASR	header=CISCO ASR
+	Cisco-SX	header=Cisco-SX
+	Cisco Expert Talks	header=Cisco Expert Talks
+	Rimes-Cisco	header=Rimes-Cisco
+	Cisco VCI	header=Cisco VCI
+	Cisco Acceleration	header=Cisco Acceleration
+	Load Balancer Cisco ACE	header=Cisco ACE
+	GWS (Google Web Server)	header=Server: gws
+	GAE/google app engine/Google Frontend	header=Server: Google Frontend||header=Server: GFE
+	APC-UPS-Management-Card	header=APC Management Card || body=class=apclogo
+	Apache-Archiva	title=Apache Archiva || body=/archiva.js || body=/archiva.css
+	Pp	header=Pp
+	VZPP Plesk	title=VZPP Plesk 
+	BigDump	title=BigDump || body=BigDump: Staggered MySQL Dump Importer
+	Bentley-Systems-ProjectWise	body=href=ProjectWise.ico || title=ProjectWise Web Server || header=Bentley.WebSession=
+	Barracuda-Load-Balancer	header=BARRACUDA_LB_COOKIE
+	Barracuda-Backup-Server	header=BACKUP_LOCAL_LOCALE
+	BackupPC	header=BackupPC_Admin || header=Backup
+	Axway-SecureTransport	header=SecureTransport || title=Welcome to SecureTransport
+	Axel-Device	header=Axel Admin Server
+	Avocent-DSView	header=Avocent DSView || body=/dsview/images/favicon.ico || body=/dsview/protected/login.do
+	Avaya-IP-Office	header=IPOffice || title=About IP Office
+	AutoIndex-PHP-Script	body=title=AutoIndex Default || header=AutoIndex || (body=Powered by || body=autoindex.sourceforge.net/)
+	ATutor elearning	body=content=ATutor || header=ATutorID || body=ATutor.course
+	HP打印机	header=HP-ChaiServer||(title=HP LaserJet||body=/hp/jetdirect)
+	BlueQuartz	body=VALUE=Copyright (C) , Cobalt Networks || title=Login - BlueQuartz
+	BlueOnyx	title=Login - BlueOnyx || body=Thank you for using the BlueOnyx
+	BMC-Remedy	title=Remedy Mid Tier
+	Blue-Coat-ProxySG	header=proxysg
+	BitKeeper	header=bkhttp
+	Citrix-NetScaler	header=NS-CACHE
+	Citrix-ConfProxy	header=confproxy
+	Cogent-DataHub	body=/images/Cogent.gif || title=Cogent DataHub WebView
+	CoDeSys-Web-Visualization	title=CoDeSys WebVisualization || header=WAGO_Webs
+	Cimplicity-WebView	header=CIMPLICITY-HttpSvr || body=<APPLET NAME=ProwlerClientAppletObject ARCHIVE=/ProwlerClient.jar
+	Carel-Data-Server	body=src=/MPwebCoreFn.js || header=CarelDataServer
+	Calypso-ION-r-Device	title=Calypso ION-r Device || header=Calypso IONr Device || body=/A/cfg/entercmd.stm
+	CalendarScript	title=Calendar Administration : Login || body=Powered by <A HREF=http://www.CalendarScript.com
+	BroadWin-WebAccess	body=<!-- #BeginTemplate /Templates/bw_templete.dwt --> || header=/broadWeb/bwRoot.asp?username=
+	Cookies	header=set-cookie
+	Content-Security-Policy	header=x-content-security-policy || header=x-webkit-csp
+	Solvonet Device (VoIP)	header=Basic realm=SOLVONET
+	Confluence	header=x-confluence
+	CommuniGate-Pro	header=CommuniGatePro
+	CoyotePoint-Load-Balancer	header=CoyotePoint
+	Cybozu-Garoon	header=Cybozu-WS
+	Oracle_OPERA	title=MICROS Systems Inc., OPERA || body=OperaLogin/Welcome.do
+	DublinCore	body=name=DC.title
+	DXSock	header=RemObjects
+	DVWA	title=Damn Vulnerable Web App (DVWA) - Login || body=dvwa/css/login.css || body=dvwa/images/login_logo.png
+	DORG	title=DORG -  || body=CONTENT=DORG
+	VOS	title==VOS||body=<meta name=keywords content=VOS||body=<meta name=description content=VOS||body=images/vos.ico
+	Electro-Industries-GaugeTech	header=EIG Embedded Web Server
+	Entrans	title=Entrans
+	enVision	header=Content Interface Corp - enVision
+	EMS-ENTRY-COM	header=EMS-Entry || header=ZENT
+	GateQuest-PHP-Site-Recommender	title=GateQuest
+	Gallarific	body=content=Gallarific || title=Gallarific > Sign in
+	GeoNode	body=Powered by <a href=http://geonode.org || body=href=/catalogue/opensearch title=GeoNode Search
+	GenOHM-SCADA	title=GenOHM Scada Launcher || body=/cgi-bin/scada-vis/
+	Hybrid-Cluster	header=Hybrid Cluster
+	HttpOnly	header=httponly
+	Indico	header=MAKACSESSION || body=href=http://cern.ch/indico
+	Imageview	body=content=Imageview || body=By Jorge Schrauwen || body=href=http://www.blackdot.be title=Blackdot.be
+	iGiveTest	body=Powered by iGiveTest || header=IGTSESSID
+	i-Gallery	title=i-Gallery || body=href=igallery.asp
+	OrientDB	server=OrientDB||title=Redirecting to OrientDB
+	Solr	title=Solr Admin||body=SolrCore Initialization Failures||body=app_config.solr_path
+	IdeaWebServer	header=IdeaWebServer
+	Intrinsyc-deviceWEB	header=Intrinsyc deviceWEB
+	Inktomi-Search	header=Inktomi Search
+	ISC-SCADA-Service	header=ISC SCADA Service || title==ISC SCADA
+	ionCube-PHP-Accelerator	header=x-accelerated-by
+	couchbase	server=Couchbase||title=Couchbase Console||header=Couchbase
+	IWSS-Proxy	header=IWSS
+	laravel	header=laravel_session
+	jira	body=jira.webresources || header=atlassian.xsrf.token || body=ams-build-number || body=com.atlassian.plugins
+	fisheye	header=Set-Cookie: FESESSIONID || body=fisheye-.ico
+	VisualSVN	title=VisualSVN Server
+	Bugzilla	body=enter_bug.cgi || body=/cgi-bin/bugzilla/ || header=Bugzilla_login_request_cookie || title=Bugzilla Main Page
+	Phabricator	header=phsid || body=phabricator-application-launch-container || body=res/phabricator
+	reviewboard	body=/static/rb/images/delete || header=rbsessionid
+	Hudson	header=X-Hudson
+	Jenkins	header=X-Jenkins
+	trac	body=<h>Available Projects</h> || body=wiki/TracGuide || header=trac_session
+	gitlab	header=_gitlab_session || body=gon.default_issues_tracker || body=GitLab Community Edition
+	Mercurial	title=Mercurial repositories index
+	Collabtive	title=Login @ Collabtive
+	CGI:IRC	title=CGI:IRC Login || body=<!-- This is part of CGI:IRC || body=<small id=ietest><a href=http://cgiirc.org/
+	Dart-WebServer-Tool	header=Dart WebServer Tool
+	eLitius	body=content=eLitius || body=target=_blank title=Affiliate
+	Gitorious	header=_gitorious_sess || body= Powered by Gitorious
+	GpsGate-Server	title=GpsGate Server - 
+	Icecast	header=icecast
+	LuManager	title=LuManager
+	wdcp管理系统	title=wdcp服务器 || title=lanmp_wdcp 安装成功
+	LANMP一键安装包	title=LANMP一键安装包
+	UPUPW	title=UPUPW环境集成包
+	wamp	title=WAMPSERVER
+	uPlusFtp	header=uPlusFtp
+	Cactiez	header=Cactiez
+	Cacti	header=Set-Cookie: Cacti= || title=Login to Cacti || body=/plugins/jqueryskin/include/login.css
+	WHM	header=whostmgrsession
+	LUM服务器管理	header=LUM_SESSION
+	护卫神主机管理	title=护卫神·主机管理系统
+	cpanel	header=cprelogin:
+	bacula-web	title=Webacula || title=Bacula Web || title=Bacula-Web || title=bacula-web
+	Webmin	title=Login to Webmin || body=Webmin server on
+	Directadmin	header=X-Directadmin || header=DirectAdmin Daemon || title=DirectAdmin Login
+	Synology_DiskStation	title=Synology DiskStation || body=SYNO.SDS.Session
+	Puppet_Node_Manager	title=Puppet Node Manager
+	Docker_Daemon	type=subdomain || (port= || port=) || header=Content-Length: || header=text/plain
+	CouchDB	header=CouchDB || header=Erlang OTP
+	HFS	header=Server: FHFS || header=Server: HFS || header=HFS_SID_= || title=HFS
+	wdcp	title=wdcp服务器
+	Blazix	header=Blazix Java Server
+	David-WebBox	header=David-WebBox
+	DataflexViNE-VoIP-IAD	header=DataflexViNE-Webserver
+	Dell-KACE-Appliance	header=x-dellkace-
+	DLI-LPC	header=DLILPC=
+	Enhydra-Application-Server	header=Enhydra
+	GearHost	header=GearHost
+	FileMakerPro	header=FileMakerPro
+	eXtplorer	title=Login - eXtplorer
+	File-Upload-Manager	title=File Upload Manager || body=<IMG SRC=/images/header.jpg ALT=File Upload Manager>
+	HAProxy 	header=HAProxy Statistics
+	HP-System-Management-Homepage	title=HP System Management Homepage || header=Compaq-HMMD || header=CompaqHTTPServer
+	IBM-Web-Traffic-Express-Caching-Proxy	header=IBM-PROXY-WTE || body=/admin-bin/webexec/wte.html
+	IBM-Internet-Connection-Server	header=IBM Internet Connection Server
+	iLO	body=href=http://www.hp.com/go/ilo || title=HP Integrated Lights-Out
+	Internet-Rimon-Filter	header=rimon
+	Internet-Cluster-Manager	header=Internet Cluster Manager
+	ispCP-Omega	title=ispCP Omega a Virtual Hosting Control System || header= ispCP=
+	Juniper-Load-Balancer	header=rl-sticky-key || header=Juniper Networks Application Acceleration Platform
+	Jigsaw	header=Jigsaw
+	Kloxo-Single-Server	body=src=/img/hypervm-logo.gif || body=/htmllib/js/preop.js || title=HyperVM
+	MVB	title=MVB || body=The Magic Voice Box
+	SonicWALL	header=Server: SonicWALL
+	NetShare_VPN	title=NetShare || title=VPN
+	pmway_E_crm	title=E || title=CRM
+	srun计费认证系统	title=srun
+	EasyTrace(botwave)	title=EasyTrace || body=login_page
+	瑞友天翼_应用虚拟化系统 	title=瑞友天翼－应用虚拟化系统
+	Vmware_vFabric	title=vFabric || header=TSefdfa
+	ICEFLOW_VPN	header=Server: ICEFLOW
+	用友erp-nc	body=/nc/servlet/nc.ui.iufo.login.Index || title=用友新世纪
+	深信服ssl-vpn	body=login_psw.csp || header=TWFID
+	天融信VPN	header=TopWebServer || header=topsecsvportalname
+	天融信防火墙	header=TopWebServer || body=WEB User Interface
+	osecurity_vpn	header=client_param=install_active
+	zabbix	body=images/general/zabbix.ico || header=zbx_sessionid || body=meta name=Author content=Zabbix SIA
+	F_BIGIP	header=BIGipServer || header=X-WA-Info || header=X-PvInfo
+	CEMIS	body=<div id=demo style=overflow:hidden || title=综合项目管理系统登录
+	DI-HV	header=DI-HV
+	CCProxy	header=Server: CCProxy
+	梭子鱼设备	header=BarracudaHTTP
+	Synology_NAS	header=webman/index.cgi || body=modules/BackupReplicationApp
+	OpenMas	title=OpenMas || body=loginHead><link href=App_Themes
+	NOALYSS	title=NOALYSS
+	Nagios	header=Nagios access || body=/nagios/cgi-bin/status.cgi
+	Adiscon_LogAnalyzer	title=Adiscon LogAnalyzer || (body=Adiscon LogAnalyzer || body=Adiscon GmbH)
+	opennms	header=/opennms/login.jsp || body=/css/gwt-asset.css || body=OpenNMS® is a registered trademark of
+	MRTG	body=Command line is easier to read using View Page Properties of your browser || title=MRTG Index Page || body=commandline was: indexmaker
+	Webmin	title=Login to Webmin || body=Webmin server on
+	锐捷应用控制引擎	body=window.open(/login.do,airWin || title=锐捷应用控制引擎
+	Storm	title=Storm UI || body=stormtimestr
+	网神VPN	body=admin/js/virtual_keyboard.js || header=host_for_cookie
+	FortiWeb	header=FortiWeb
+	Centreon	body=Generator content=Centreon - Copyright || title=Centreon - IT & Network Monitoring
+	FortiGuard	body=FortiGuard Web Filtering || title=Web Filter Block Override || body=/XX/YY/ZZ/CI/MGPGHGPGPFGHCDPFGGOGFGEH
+	PineApp	title=PineApp WebAccess - Login || body=/admin/css/images/pineapp.ico
+	ntop	body=Global Traffic Statistics || header=Server: ntop || body=ntopMenuID
+	CDR-Stats	title=CDR-Stats | Customer Interface || body=/static/cdr-stats/js/jquery
+	GenieATM	title=GenieATM || body=Copyright© Genie Networks Ltd. || body=defect 
+	Spark_Worker	title=Spark Worker at
+	Spark_Master	title=Spark Master at
+	Kibana	title=Kibana || body=kbnVersion
+	CISCO_VPN	header=webvpn
+	UcSTAR	title=UcSTAR 管理控制台
+	openEAP	title=openEAP_统一登录门户
+	Dorado	title=Dorado Login Page
+	金龙卡金融化一卡通网站查询子系统	title=金龙卡金融化一卡通网站查询子系统 || body=location.href=homeLogin.action
+	埃森诺网络服务质量检测系统	title=埃森诺网络服务质量检测系统 
+	ACSNO网络探针	title=探针管理与测试系统-登录界面
+	绿盟下一代防火墙	title=NSFOCUS NF
+	华为_HUAWEI_SRG	header=HUAWEI SRG
+	华为_HUAWEI_SRG	header=HUAWEI SRG
+	华为_HUAWEI_ASG	header=HUAWEI ASG
+	华为_HUAWEI_SRG	header=HUAWEI SRG
+	华为_HUAWEI_ASG	header=HUAWEI ASG
+	华为（HUAWEI）Secoway设备	header=Secoway
+	Fireeye	header=fireeye || (body=mobsc || body=FireEye)
+	网神防火墙	title=secgate  || body=css/lsec/login.css
+	cisco UCM	body=/ccmadmin/ || title=Cisco Unified
+	panabit智能网关	title=panabit
+	soeasy网站集群系统	body=EGSS_User || title=SoEasy网站集群
+	畅捷通	title=畅捷通
+	科来RAS	title=科来网络回溯 || body=科来软件 版权所有 || body=ininit.min.js
+	科迈RAS系统	title=科迈RAS || body=type=application/npRas || body=远程技术支持请求：<a href=http://www.comexe.cn
+	单点CRM系统	body=URL=general/ERP/LOGIN/ || body=content=单点CRM系统 ||title==客户关系管理-CRM
+	浪潮政务系统	body=OnlineQuery/QueryList.aspx || title=浪潮政务 || body=LangChao.ECGAP.OutPortal
+	live	header=live
+	悟空CRM	title=悟空CRM || body=/Public/js/kcrm.js
+	网御上网行为管理系统	title=Leadsec ACM
+	中控智慧考勤管理系统	(body=/media/images/ZKECO.ico || header=sessionidadms) || title=考勤管理系统
+	中控智慧时间安全管理平台	title=ZKECO 时间&安全管理平台
+	天融信安全管理系统	title=天融信安全管理
+	天融信网络卫士过滤网关	title=天融信网络卫士过滤网关
+	天融信网站监测与自动修复系统	title=天融信网站监测与自动修复系统
+	天融信 TopAD	title=天融信 TopAD
+	Aladdin-HASP-License-Manager	header=HASP
+	Cisco VEN	header=Cisco VEN
+	Cisco CSS	header=Cisco CSS
+	URP教务系统	title=URP 综合教务系统 || body=北京清元优软科技有限公司
+	Huawei HG ADSL+ Router	title=Huawei HG
+	Huawei BV	title=Huawei BV
+	HUAWEI ESPACE 	title=HUAWEI ESPACE 
+	Huawei HG	title=Huawei HG
+	Huawei B	title=Huawei B
+	华为 MCU	body=McuR-min.js || body=MCUType.js || title=huawei MCU
+	HUAWEI Inner Web	title=HUAWEI Inner Web || body=hidden_frame.html
+	HUAWEI CSP	title=HUAWEI CSP
+	华为 NetOpen	body=/netopen/theme/css/inFrame.css || title=Huawei NetOpen System
+	OBSERVA telcom	title=OBSERVA
+	Cisco小区网络管理系统	header=Cisco小区网络管理系统
+	Cisco 路由器	header=Cisco 
+	Cisco-ECDS	header=Cisco-ECDS/
+	Cisco-VOS	header=Cisco-VOS
+	CISCO-CX	header=CISCO-CX
+	Cisco-CDS	header=Cisco-CDS
+	Cisco AWARE	header=Cisco AWARE || header!=webvpn
+	Cisco-WSA	header=Cisco-WSA
+	Cisco UCC	body=Cisco Unified Contact Center || header=cisco
+	Cisco-MWEB	header=Cisco-MWEB
+	Cisco XNC	header=Cisco XNC
+	Cisco IOS-XR	header=Cisco IOS-XR
+	汉柏安全网关	title=OPZOON - 
+	ClientExec	body=Powered By ClientExec || header=CLIENTEXEC=
+	Clearwell-E-Discovery	title=Clearwell E-Discovery Platform log in || header=Clearwell
+	CAStor	header=CAStor
+	Cisco-VPN--Concentrator	title=Cisco Systems, Inc. VPN  Concentrator
+	Cisco-Adaptive-Security-Appliance	header=Adaptive Security Appliance HTTP
+	ChiliProject	body=Powered by <a href=https://www.chiliproject.org/ || body=content=ChiliProject || header=_chiliproject_session=
+	BugFree	body=id=logo alt=BugFree || body=class=loginBgImage alt=BugFree ||  title=BugFree || body=name=BugUserPWD
+	Brother-Fax	header=debut || title=Brother MFC
+	ConnectUPS-X	header=UPS_Server/ || body=UPS Firmware version
+	cPassMan	title=Collaborative Passwords Manager
+	darkstat	header=darkstat
+	CSCSSM	header=CSCSSM
+	Data-ONTAP	header=Data ONTAP
+	Dr-Web-Anti-Virus	header=DRWEB_PERSONAL_OFFICE= || body=/avdesk/includes/system/templates/images/logo_en.png
+	Diaspora	header=_diaspora_session || header=x-git-update || header=x-git-revision
+	Dell-Remote-Access-Controller	body=/cgi-bin/webcgi/ssologin || header=RAC_ONE_HTTP
+	Ganglia	title=Ganglia:: Cluster Report || body=OnChange=ganglia_form.submit(); || body=NAME=ganglia_form || header=gs=unspecified
+	FreeNAS	body=title=Welcome to FreeNAS || body=/images/ui/freenas-logo.png
+	FEX	header=fexsrv || body=HREF=mailto:fexmaster@ostc.de
+	FestOS	body=title=FestOS || body=css/festos.css
+	ethProxy	header=ethProxy
+	Google-Search-Appliance	title=Google Search Appliance || header=Google Search Appliance
+	Group-Office	header=groupoffice= || body=powered by Group-Office || body=theme:Group-Office,
+	GrandTec-X-Guard	header=WalkGuard
+	Grandstream-Phone	header=Grandstream || title=Grandstream Device Configuration
+	IBM-CICS-Transaction-Server	header=IBM_CICS_Transaction_Server
+	HP-StorageWorks-Library	title=HP StorageWorks
+	HP-SiteScope	body=SiteScope Login || header=SiteScope
+	IBM-WebSphere-DataPower	header=x-backside-transport
+	iGuard-Security-System	header=iGuard Embedded Web Server || body=content=Lucky-Tech iGuard
+	iPeer	body=Powered by iPeer || header=IPEER= || body=/js/ipeer.js || body=/css/ipeer.css
+	iTop	title=iTop Login || body=href=http://www.combodo.com/itop
+	Jive-SBS	body=/jive-icons.css || body=class=jive-body-formpage || header=X-Jsl:  ||body=jive.rte.defaultStyles
+	蓝讯	header=Powered-By-ChinaCache
+	网宿	header=Cdn Cache Server || header=WS CDN Server
+	帝联	header=Server: DNION || header=fastcdn.com
+	快网	header=Fw-Via: 
+	Webluker	header=Webluker-Edge
+	西部数码	header=WTCDN
+	gocdn	header=GOCDN
+	Powercdn	header=Powercdn
+	QingCloud	header=QINGCLOUDELB
+	amazon-cloudfront	header=X-Amz-Cf-Id
+	Akamai	server==AkamaiGHost || header=X-Akamai-Transformed
+	MaxCDN 	header=NetDNA
+	jquery官网CDN	header=code.jquery.com||body=code.jquery.com
+	jsdelivr	header=cdn.jsdelivr.net||body=cdn.jsdelivr.net
+	cdnjs	header=cdnjs.cloudflare.com/ajax/libs||body=cdnjs.cloudflare.com/ajax/libs
+	Microsoft Ajax Content Delivery Network	header=ajax.aspnetcdn.com/ajax||body=ajax.aspnetcdn.com/ajax
+	Google Hosted Libraries	header=ajax.googleapis.com/ajax/libs||body=ajax.googleapis.com/ajax/libs
+	网站卫士常用前端公共库	header=libs.useso.com||body=libs.useso.com
+	前端公共库CDN	header=libs.cdnjs.net||body=libs.cdnjs.net
+	又拍云JS库	header=b.upaiyun.com||body=b.upaiyun.com
+	新浪SAE	header=lib.sinaapp.com||body=lib.sinaapp.com
+	百度CDN	header=apps.bdimg.com||body=apps.bdimg.com||header=libs.baidu.com||body=libs.baidu.com
+	七牛CDN	header=glb.clouddn.com||body=glb.clouddn.com||header=glb.qiniucdn.com||body=glb.qiniucdn.com||header=cdn.staticfile.org||body=cdn.staticfile.org
+	阿里云CDN	header=cdn.aliyuncs.com||body=cdn.aliyuncs.com
+	Bootstrap CDN	header=cdn.bootcss.com||body=cdn.bootcss.com
+	EdgePrism	header=EdgePrism || header=EdgePrismSSL
+	Sun[tm]	title=Sun[tm] ONE Web Server || header=Server: Sun-ONE-Web-Server
+	ZendServer	header=ZendServer
+	squid	header=squid
+	IIS	header=Microsoft-IIS || header=X-Powered-By: WAF/.
+	nginx	header=Server: nginx
+	tomcat	header=Apache-Coyote
+	Apache	header=Server: Apache || header!=Apache-Coyote
+	Tengine	header=Server: Tengine
+	IBM_HTTP_Server	header=IBM_HTTP_Server
+	GSE	header=Server: GSE
+	LiteSpeed	header=Server: LiteSpeed
+	Microsoft-HTTPAPI	header=Microsoft-HTTPAPI
+	ngx_openresty	header=ngx_openresty
+	Zeus	header=Server: Zeus
+	Resin	header=Server: Resin
+	Netscape-Enterprise	header=Netscape-Enterprise
+	Phusion	header=Phusion
+	webrick	header=webrick
+	Jetty	header=Server: Jetty
+	Sun-ONE-Web-Server	header=Sun-ONE-Web-Server
+	Oracle-Application-Server	header=Oracle-Application-Server
+	JBoss	header=Server: JBoss
+	kangle反向代理	header=kangle || title=welcome use kangle
+	Varnish	header=X-Varnish
+	Aicache	header=X-Aicache
+	SJSWS_ OiWS	header=Oracle-iPlanet-Web-Server || header=Sun-Java-System-Web-Server
+	AOLserver	header=AOLserver
+	Lotus-Domino	header=Server: Lotus-Domino
+	gunicorn	header=gunicorn
+	Allegro-Software-RomPager	header=Allegro-Software-RomPager
+	Starlet	header=Plack::Handler::Starlet
+	nginx_admin	header=nginx admin
+	FortiWeb	header=FortiWeb
+	GlassFish	header=Server: GlassFish Server
+	Privoxy	header=Proxy-Agent: Privoxy
+	东方通应用服务器TongWeb	header=TongWeb Server
+	Mbedthis-Appweb	header=Mbedthis-Appweb
+	lighttpd	header=server: lighttpd
+	Cisco IOS	header=Server: cisco-IOS
+	Seminole	header=Server: Seminole
+	mini_httpd	header=mini_httpd
+	AIDeX	header=aidex || (body=Powered by || body=http://www.aidex.de/)
+	IIS.	header=IIS/.
+	IIS	header=IIS/.
+	activeWeb-Content-Server	body=AWNOCACHEBEGIN__AWNOCACHEBEGIN__AWNOCACHEBEGIN__AWNOCACHEBEGIN__AWNOCACHEBEGIN || header=x-awcache || body=activeWeb cache extension
+	ActiveHTML	header=ActiveHTML
+	Acme embeddable HTTP server	header=Server: Acme
+	RomPager Embedded web	header=RomPager
+	Abyss	header=Server: Abyss
+	D	header=Server:D
+	Router Webserver	header=Router Webserver
+	PG API Server	header=PG API Server || header=PGAPIServ
+	Tomcat Manager Application	header=Tomcat Manager Application
+	GoAhead	header=GoAhead
+	IIS.	header=IIS/.
+	IIS.	header=IIS/.
+	IIS.	header=IIS/.
+	IIS.	header=IIS/.
+	IIS.	header=IIS/.
+	IIS.	header=IIS/.
+	IIS.	header=IIS/.
+	IIS.	header=iis/.
+	IIS	header=iis/
+	IIS	header=iis/
+	AMR-WinControl	header=AMR_WinControl
+	SPID HTTP Server	header=SPID HTTP Server
+	Alpha-Five	header=Alpha Five || header=AwSessionId
+	suduserver	header=suduserver
+	IX Series	header=IX Series
+	Apache-Traffic-Server	header=ApacheTrafficServer
+	BadBlue	header=BadBlue
+	axTLS embad httpd	header=axhttpd
+	AVTech-Video-Web-Server	title=--- VIDEO WEB SERVER --- || body=/AVE/setup.exe || header=Server: AV-TECH
+	Atvise-webMI	header=atvise || body=alarmlistbutton
+	GoAhead-Webs	server=GoAhead-Webs||header=GoAhead-Webs
+	Boa-WebServer	header=Boa
+	Citrix-Web-PN-Server	header=Citrix Web PN Server
+	CL-HTTP	header=CL-HTTP
+	CERN	header=CERN
+	CDN-Cache-Server	header=Cdn Cache Server
+	Caudium	header=Caudium || header=X-Got-Fish: Pike
+	Cherokee	header=Cherokee
+	zope	header=zope
+	TornadoServer	server=TornadoServer||header=TornadoServer
+	Comanche	header=Comanche
+	Covalent-Enterprise-Ready-Server	header=CovalentSNMP
+	Easy-File-Sharing-Web-Server	header=Easy File Sharing Web Server
+	DynaWeb-httpd	header=dwhttpd
+	Ericsson-TV-Web-Server	header=Ericsson Television Web server
+	epson打印机	server=EPSON-HTTP||header=EPSON-HTTP
+	Kerio MailServer	server=Kerio MailServer||header=Kerio MailServer
+	Dell Remote Access Device	server=RAC_ONE_HTTP ||header=RAC_ONE_HTTP 
+	grandstream	header=Grandstream||server=Grandstream
+	Fujitsu-InfoProvider-Pro	header=Fujitsu-InfoProvider-Pro
+	FrontPage-Personal-Web-Server	header=FPWS
+	Falcon-Web-Server	header=Falcon Web Server
+	Fizmez-Web-Server	header=Fizmez
+	GoServe	header=GoServe
+	gSOAP	header=gSOAP
+	Footprint	header=Footprint
+	fnord	header=fnord
+	iLON-SmartServer	header=WindRiver || header=i.LON
+	Hyperwave-IS	header=Hyperwave
+	Http-Explorer	header=Http explorer
+	Home-Control-Box	header=hcb_web
+	IBM-WebSEAL	header=WebSEAL
+	Intrasrv	header=intrasrv
+	KeyFocus-WebServer	header=KFWebServer
+	Kerio-WebSTAR	header=Kerio_WebSTAR || header=WebSTAR || header=D_WebStar
+	Knopflerfish-HTTP-Server	header=The Knopflerfish HTTP Server
+	Keil-Embedded-WEB-Server	header=Keil-EWEB
+	一启快	header=yiqikuai.com
+	主机卫士	header=X-Safe-Firewall
+	安全狗	header=WAF/.
+	Websecurity_WAF	header=Websecurity: WAF .
+	webray	header=Rayengine || header=Drivedby: RaySrv
+	weidun	header=Firewall: www.weidun.com.cn
+	安慧网盾	header=Protected-By: AnHui Web Firewall
+	SafeWAF	header=SafeWAF
+	AnZuWAF	header=AnZuWAF
+	Kerio_WinRoute_Firewall	header=Kerio WinRoute Firewall || body=style/bodyNonauth.css
+	Dotdefender	header=X-Dotdefender-Denied
+	Citrix_Netscaler	header=ns_af
+	Mod_Security	header=Mod_Security
+	WebKnight	header=WebKnight
+	Sucuri	header=Sucuri/Cloudproxy
+	梭子鱼防火墙	body=http://www.barracudanetworks.com?a=bsf_product class=transbutton || body=/cgi-mod/header_logo.cgi
+	云锁	header=yunsuo_session_verify
+	USP Secure Entry Server	header=Secure Entry Server
+	UrlScan	header=Rejected-By-UrlScan
+	AppWall	header=X-SL-CompState
+	FortiWeb WAF	header=FORTIWAFSID=
+	IBM WebSphere DataPower	header=X-Backside-Transport
+	Cisco ACE	header=ACE XML Gateway
+	BlockDos	header=BlockDos.net
+	IndusGuard_WAF	title=IndusGuard WAF || body = wafportal/wafportal.nocache.js
+	网御WAF	body = <div id=divLogin> || title==网御WAF
+	NSFOCUS_WAF	title==WAF NSFOCUS || body = /images/logo/nsfocus.png
+	斐讯Fortress	title=斐讯Fortress防火墙 || body=<meta name=author content=上海斐讯数据通信技术有限公司 />
+	Sophos Web Appliance	title=Sophos Web Appliance || body=resources/images/sophos_web.ico || body=url(resources/images/en/login_swa.jpg)
+	BinarySec-Firewall	header=X-BinarySEC
+	Barracuda-Spam-Firewall	title=Barracuda Spam & Virus Firewall: Welcome || body=/barracuda.css || body=http://www.barracudanetworks.com?a=bsf_product
+	Citrix-Access-Gateway	title=Citrix Access Gateway || body=href=/vpn/images/AccessGateway.ico || header=ezisneercsresu= || header=Cyms-SecS
+	Check-Point-SSL-Network-Extender	header=Check Point SVN foundationServerHttp

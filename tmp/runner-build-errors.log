@@ -1,0 +1,9 @@
+found packages main (main.go) and tasks (task.go) in E:\go_space\temp
+task.go:13:2: no required module provides package github.com/go-xorm/xorm; to add it:
+	go get github.com/go-xorm/xorm
+task.go:14:2: no required module provides package github.com/roylee0704/gron; to add it:
+	go get github.com/roylee0704/gron
+task.go:15:2: no required module provides package yondor.com/analytics/config; to add it:
+	go get yondor.com/analytics/config
+task.go:16:2: no required module provides package yondor.com/analytics/model; to add it:
+	go get yondor.com/analytics/model
